@@ -26,8 +26,7 @@ Engenharia de Software
 
 
 ## 📝 Licença
-
-Este repositório é destinado ao estudo e uso pessoal. Caso utilize algum material daqui, lembre-se de dar os devidos créditos.
+ Este repositório é destinado ao estudo e uso pessoal. Caso utilize algum material daqui, lembre-se de dar os devidos créditos aos responsáveis.
 ------------------------
 🎓 Universidade Federal de Alfenas (UNIFAL-MG)🖥 Curso: Bacharelado em Ciência da Computação📅 Período: 2°
 
