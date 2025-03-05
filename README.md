@@ -4,8 +4,6 @@ Este repositório tem como objetivo armazenar os materiais utilizados e os traba
 
 ## 📚 Conteúdo
 
-Aqui você encontrará:
-
 📂 Materiais de aula: Slides, anotações, livros e artigos recomendados.
 
 💻 Trabalhos práticos: Projetos, códigos-fonte e relatórios.
@@ -14,19 +12,10 @@ Aqui você encontrará:
 
 📄 Provas e revisões: Resumos e materiais de apoio para avaliações.
 
-## 🗂 Organização
-
-A estrutura do repositório é organizada por disciplinas, como:
-
-AEDS II - prática 
-AEDS II - teórica
-Arquitetura e Organização de computadores
-Cálculo I
-Engenharia de Software
-
 
 ## 📝 Licença
  Este repositório é destinado ao estudo e uso pessoal. Caso utilize algum material daqui, lembre-se de dar os devidos créditos aos responsáveis.
 ------------------------
-🎓 Universidade Federal de Alfenas (UNIFAL-MG)🖥 Curso: Bacharelado em Ciência da Computação📅 Período: 2°
+🎓 Universidade Federal de Alfenas (UNIFAL-MG)🖥 
+Curso: Bacharelado em Ciência da Computação📅 Período: 2°
 
